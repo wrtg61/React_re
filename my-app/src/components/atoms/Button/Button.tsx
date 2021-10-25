@@ -1,10 +1,9 @@
-import React from 'react';
-import './Button.css';
+//import React from 'react';
 
-type ButtonType={
+/*type ButtonType={
     type: any;
     children: any;
-}
+} */
 
 /* export const Button:React.FC<ButtonType> =({type, children})=> {
     return (
